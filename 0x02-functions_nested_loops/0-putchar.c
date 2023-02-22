@@ -1,13 +1,12 @@
-#include "stdio.h"
-
+#include "main.h"
 /**
- * putchar - check the code
- *
- * Return: Always 0.
+ * main - print _putchar
+ * Return: 0
  */
+
 int main(void)
 {
-    char ch= "_putchar";
+    char ch[]= "_putchar";
 
     putchar(ch);
     return (0);
