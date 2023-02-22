@@ -1,12 +1,11 @@
-#include "main.h"
 #include "stdio.h"
 
 /**
- * main - check the code
+ * putchar - check the code
  *
  * Return: Always 0.
  */
-int main
+int main(void)
 {
     char ch= "_putchar";
 
