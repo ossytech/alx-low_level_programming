@@ -9,15 +9,7 @@
 
 void reset_to_98(int *n){
 
-int n;
-
-int* ptr;
-
-ptr = n
-
-ptr = 98
-
-_printf (%d/n, &ptr)
+	n* = 98
 
 return (0)
 }
